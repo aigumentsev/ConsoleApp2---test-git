@@ -13,6 +13,7 @@ namespace ConsoleApp2___test_git
             Console.Write("test commit1");
             Console.Write("push to release 0.1");
             Console.Write("push to local branch1 added");
+            Console.Write("local PC ++");
         }
     }
 }
